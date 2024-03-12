@@ -69,6 +69,9 @@ data.head()
 
 
 ![image](https://github.com/DHARSAN23014208/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/149365413/71f7417a-8e3d-4187-a4eb-a5bf9976a767)
+
+
+
 ![image](https://github.com/DHARSAN23014208/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/149365413/878a5df7-e042-4122-8a6f-a4b44a4e1433)
 
 
