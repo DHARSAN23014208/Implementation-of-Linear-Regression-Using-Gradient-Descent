@@ -64,6 +64,10 @@ print(f"Predicted value: {pre}")
 ![image](https://github.com/DHARSAN23014208/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/149365413/4b4acc2c-cd9f-4ae3-a022-51c6b29ed9fe)
 data.head()
 ![image](https://github.com/DHARSAN23014208/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/149365413/fe08198c-40e1-457a-86a6-a02f889bae64)
+
+
+
+
 ![image](https://github.com/DHARSAN23014208/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/149365413/71f7417a-8e3d-4187-a4eb-a5bf9976a767)
 ![image](https://github.com/DHARSAN23014208/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/149365413/878a5df7-e042-4122-8a6f-a4b44a4e1433)
 
