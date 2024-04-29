@@ -3,7 +3,7 @@
 ## AIM:
 To write a program to predict the profit of a city using the linear regression model with gradient descent.
 
-## Equipments Required:
+## Equipments Required: 
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
